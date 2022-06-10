@@ -11,7 +11,7 @@ import SwiftUI
 struct CombineAPIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PostView()
         }
     }
 }
